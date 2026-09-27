@@ -23,6 +23,6 @@
 		"crons": ["* * * * *"],
 	},
 	"vars": {
-		"EMDASH_SITE_URL": "a-zano.com",
+		"EMDASH_SITE_URL": "https://a-zano.com",
 		}
 }
